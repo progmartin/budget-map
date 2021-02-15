@@ -15,4 +15,5 @@ question for project:
 12.license needed?  
 13.light weight or super fancy  
 14.is user data going to be saved? where, local,database,cloud?  
-15.
+15. are there any privacy concerns? legal?  
+16.
