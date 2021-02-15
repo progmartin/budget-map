@@ -15,6 +15,8 @@ Project building:
 5.license needed?  
 6.light weight or super fancy  
 7.is user data going to be saved? where, local,database,cloud?  
+8.implement some security, against data theif??  
+9.should user have accounts?  
 
 research:  
 1.who is doing the same,competitors  
