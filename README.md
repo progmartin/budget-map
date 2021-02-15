@@ -8,7 +8,7 @@ question for project:
 5.how user friendly should it be  
 6.time budget, deadlines  
 7.how pretty should it be  
-8.money budget? 
+8.money budget?  
 9.should we do promo   
 10.should we make it upgradable  
 11.  
