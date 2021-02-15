@@ -20,6 +20,7 @@ Project:
 10. doing it from scratch or use template?  
 11.architectual design, mvc, factories, templates, strategies  
 12.heavy documentation or light documentation  
+13. open source?  
 
 Design:  
 1.how user friendly should it be  
