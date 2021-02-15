@@ -16,4 +16,5 @@ question for project:
 13.light weight or super fancy  
 14.is user data going to be saved? where, local,database,cloud?  
 15. are there any privacy concerns? legal?  
-16.
+16. doing it from scratch or use template?  
+17. 
