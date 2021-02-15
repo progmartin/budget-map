@@ -29,3 +29,5 @@ Post Production:
 1.should we do promo,where   
 2.should we make it upgradable  
 3.should it be free, ad revenu? paypal tips? subscribtion?trials?  
+
+"8 Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things." Philippians 4
