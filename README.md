@@ -18,8 +18,8 @@ Project:
 8.is user data going to be saved? where, local,database,cloud?  
 9. are there any privacy concerns? legal?  
 10. doing it from scratch or use template?  
-11.architectual design, mvc, factories, templates, strategies
-12.heavy documentation or light documentation
+11.architectual design, mvc, factories, templates, strategies  
+12.heavy documentation or light documentation  
 
 Design:  
 1.how user friendly should it be  
