@@ -16,7 +16,7 @@ Project:
 6.license needed?  
 7.light weight or super fancy  
 8.is user data going to be saved? where, local,database,cloud?  
--reasearch: 
+-reasearch:  
 3.who is doing the same,competitors  
 9. are there any privacy concerns? legal?  
 10. doing it from scratch or use template?  
