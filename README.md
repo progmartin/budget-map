@@ -11,7 +11,7 @@ question for project:
 8.money budget?  
 9.should we do promo,where   
 10.should we make it upgradable  
-11.should it be free  
+11.should it be free, ad revenu? paypal tips? subscribtion?    
 12.license needed?  
 13.light weight or super fancy  
 14.is user data going to be saved? where, local,database,cloud?  
