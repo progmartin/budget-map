@@ -16,7 +16,7 @@ Project building:
 6.light weight or super fancy  
 7.is user data going to be saved? where, local,database,cloud?  
 
-reasearch:  
+research:  
 1.who is doing the same,competitors  
 2. are there any privacy concerns? legal?  
 3. doing it from scratch or use template?  
