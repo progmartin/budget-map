@@ -8,14 +8,16 @@ Users:
 2.what are user needs  
 
 Project:  
+-building:  
 1.how big of project should it be  
 2.what platform. cell, android, pc? web,app? saved data?   
-3.who is doing the same,competitors  
 4.time budget, deadlines, milestones  
 5.money budget?  
 6.license needed?  
 7.light weight or super fancy  
 8.is user data going to be saved? where, local,database,cloud?  
+-reasearch: 
+3.who is doing the same,competitors  
 9. are there any privacy concerns? legal?  
 10. doing it from scratch or use template?  
 11.architectual design, mvc, factories, templates, strategies  
