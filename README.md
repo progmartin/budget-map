@@ -29,8 +29,8 @@ research:
 Design:  
 1.how user friendly should it be  
 2.how pretty should it be, UX/UI design 
-3.should it have modes? or follow 100% Jorge Tadeu model
-4.custumizable?
+3.should it have modes? or follow 100% Jorge Tadeu model  
+4.custumizable?  
 
 Post Production:  
 1.should we do promo,where   
