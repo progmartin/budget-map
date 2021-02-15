@@ -26,4 +26,4 @@ Design:
 Post Production:  
 1.should we do promo,where   
 2.should we make it upgradable  
-3.should it be free, ad revenu? paypal tips? subscribtion?  
+3.should it be free, ad revenu? paypal tips? subscribtion?trials?  
