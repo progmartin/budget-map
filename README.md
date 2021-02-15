@@ -7,7 +7,7 @@ question for project:
 4.who is doing the same,competitors  
 5.how user friendly should it be  
 6.time budget, deadlines  
-7.how pretty should it be  
+7.how pretty should it be, UX/UI design
 8.money budget?  
 9.should we do promo,where   
 10.should we make it upgradable  
